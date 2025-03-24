@@ -27,28 +27,20 @@
     padding-top: 10px;
     /* padding-left: 30px; */
     color: rgb(42, 42, 97);
-
-
 }
 .headerright{
     padding-top: 20px;
-
-
 }
 .headermiddle a{
     padding-right: 25px;
     text-decoration: none;
-    /* color: white; */
     
-    /* border-radius: 20px solid gray; */
     
 }
 .highlight{
     color: rgb(229, 93, 19);
 }
-.headerright{
-    /* padding-right: 20px; */
-}
+
 .headermiddle a:hover{
     border-radius: 20px solid gray;
     border-bottom: 2px solid gray;;
@@ -72,9 +64,8 @@
 .nav{
     text-align: center;
     align-content: center;
-    /* text-align: justify; */
     padding-right: 500px;
-    /* padding-bottom: 100px; */
+   
 }
 p{
     padding-bottom: 30px;
@@ -98,7 +89,6 @@ background-color: rgb(246, 237, 237);
 padding: 10px;
 }
 .featureh1{
-    /* background-color: rgb(176, 170, 170); */
     text-align: center;
     padding-top: 40px;
 
